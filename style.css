@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    font-family: 'Helvetica', 'sans-serif';
+}
+.bloco{
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    width: 430px;
+    height: 110px;
+    margin: 20px;
+}
+#bloco-1{
+    background-color:rgb(214, 154, 44);
+    border: 8px solid rgb(255, 196, 69);
+}
+#bloco-2{
+    background-color:rgb(50, 129, 50);
+    border: 8px solid rgb(127, 204, 127);
+}
+#bloco-3{
+    background-color:rgb(39, 105, 39);
+    border: 8px dashed rgb(88, 187, 57);
+}
+#bloco-4{
+    background-color:red;
+    border: 8px dashed rgb(243, 178, 170);
+}
